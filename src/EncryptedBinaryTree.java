@@ -27,7 +27,7 @@ public class EncryptedBinaryTree {
             return false;
         }
 
-        // Check if current value matches target
+        // Check if the current value matches target
         if (value == target) {
             return true;
         }
